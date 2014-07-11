@@ -9,8 +9,8 @@ Links here are to sites that have full-fledged courses on different topics, fram
  
 1. [CodeSchool](http://www.codeschool.com) - Interactive | Videos | Web | Freemium
 * [CodeAcademy](http://www.codeacademy.com) - Interactive | APIs | User Created Tutorials | Free
-* [Microsoft Virtual Academy](http://www.codeacademy.com) - Videos | Microsoft | Hands-on | Certificate | Free
-* [Dash](http://www.codeacademy.com) - Interactive | Web | Free
+* [Microsoft Virtual Academy](http://www.microsoftvirtualacademy.com) - Videos | Microsoft | Hands-on | Certificate | Free
+* [Dash](https://dash.generalassemb.ly) - Interactive | Web | Free
 * [Coursera](http://www.coursera.org) - Videos | Theory | Hands-on | Certificate | Free
 * [EDX](http://www.edx.org) - Videos | Theory | Universities | Certificate | Free
 * [Udacity](http://www.udacity.com) - Videos | Theory | Hands-on | Free
