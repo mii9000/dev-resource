@@ -7,18 +7,18 @@ Developers usually have their own stash of resources from which they learn or us
 
 Links here are to sites that have full-fledged courses on different topics, frameworks and languages.
  
-1. [CodeSchool](www.codeschool.com) - Interactive | Videos | Web | Freemium
-* [CodeAcademy](www.codeacademy.com) - Interactive | APIs | User Created Tutorials | Free
-* [Microsoft Virtual Academy](www.codeacademy.com) - Videos | Microsoft | Hands-on | Certificate | Free
-* [Dash](www.codeacademy.com) - Interactive | Web | Free
-* [Coursera](www.coursera.org) - Videos | Theory | Hands-on | Certificate | Free
-* [EDX](www.edx.org) - Videos | Theory | Universities | Certificate | Free
-* [Udacity](www.udacity.com) - Videos | Theory | Hands-on | Free
-* [TutsPlus](www.tutsplus.com) - Videos | Hands-on | Premium 
-* [MIT Open Courseware](ocw.mit.edu) - Videos | Theory | Universities | Free
-* [FutureLearn](www.futurelearn.com) - Videos | Theory | Universities | Hands-on | Free
-* [New Circle](www.thenewcircle.com) - Videos | Freemium
-* [Pluralsight](www.pluralsight.com) - Videos | Freemium
-* [LearnStreet](www.learnstreet.com) - Interactive | Videos | Web | Free
-* [Coding For Good](cfg.good.is) - Quiz | Videos | Web | Free
-* [Alison](www.alison.com) - Videos | Free | Certificates
+1. [CodeSchool](http://www.codeschool.com) - Interactive | Videos | Web | Freemium
+* [CodeAcademy](http://www.codeacademy.com) - Interactive | APIs | User Created Tutorials | Free
+* [Microsoft Virtual Academy](http://www.codeacademy.com) - Videos | Microsoft | Hands-on | Certificate | Free
+* [Dash](http://www.codeacademy.com) - Interactive | Web | Free
+* [Coursera](http://www.coursera.org) - Videos | Theory | Hands-on | Certificate | Free
+* [EDX](http://www.edx.org) - Videos | Theory | Universities | Certificate | Free
+* [Udacity](http://www.udacity.com) - Videos | Theory | Hands-on | Free
+* [TutsPlus](http://www.tutsplus.com) - Videos | Hands-on | Premium 
+* [MIT Open Courseware](http://ocw.mit.edu) - Videos | Theory | Universities | Free
+* [FutureLearn](http://www.futurelearn.com) - Videos | Theory | Universities | Hands-on | Free
+* [New Circle](http://www.thenewcircle.com) - Videos | Freemium
+* [Pluralsight](http://www.pluralsight.com) - Videos | Freemium
+* [LearnStreet](http://www.learnstreet.com) - Interactive | Videos | Web | Free
+* [Coding For Good](http://cfg.good.is) - Quiz | Videos | Web | Free
+* [Alison](http://www.alison.com) - Videos | Free | Certificates
