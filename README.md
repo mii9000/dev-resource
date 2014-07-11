@@ -54,6 +54,7 @@ Old school style learning offline and online.
 * [Javascript Garden](http://bonsaiden.github.io/JavaScript-Garden) - Another good samaritan teaching us JS
 * [Mastering Node](https://github.com/visionmedia/masteringnode) - Open-source eBook on NodeJS
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) - Popular kick-started book series on JS
+* [Succintly](https://www.syncfusion.com/resources/techportal/ebooks) - Ebook series ~100 pages each
 
 ## Tutorials
 
@@ -66,5 +67,21 @@ Articles and tutorials on many topics with code
 * [OdeToCode](http://www.odetocode.com) - Mostly on ASP.NET and JS
 * [Codrops](http://www.tympanus.net/codrops) - Mind blowing tutorials on unique and interactive UI elements and styling
 * [TutsPlus](http://code.tutsplus.com/) - Tutorials on most web techs out there
-* [Succintly](https://www.syncfusion.com/resources/techportal/ebooks) - Ebook series ~100 pages each
 * [GitImmersion](http://gitimmersion.com) - Chapter-wise learning git
+
+
+## Tools
+
+1. [BuiltWith](http://www.builtwith.com) - Ever wonder what particular techs were used to build a web app or site? Well, find out!
+* [attachables](http://visualstudiogallery.msdn.microsoft.com/850937ba-ff0b-43cb-badd-4e273b508c32) - Revamped TODOs for Visual Studio
+* [Git Cheat Sheet](https://chrome.google.com/webstore/detail/git-cheat-sheet/mjdmgoiobnbkfcfjcceaodlcodhpokgn?hl=en) - Recall a specific Git command. Useful when working with remote repos.
+* [Shapeshifter](http://flamefusion.net/software/shapeshifter-clipboard-manager) - Hands down the best clipboard manager for Windows.
+* [Snip2Code](http://www.snip2code.com) - Save code snippets online right from your favourite IDE.
+* [Plunker](http://plnkr.co) - Better than its competitors e.g. JSFiddle and JSBin.
+* [.NET Fiddle](https://dotnetfiddle.net) - Write, save, execute and share .NET code right from the browser.
+* [Console2](http://sourceforge.net/projects/console) - Next version of Windows console. Just not officially from Microsoft.
+
+## Hosting
+
+1. [Somee.com](https://somee.com) - The best and most up-to-date hosting for free (Windows).
+* [OpenShift](https://www.openshift.com) - By Redhat, beats Heroku or AppHarbour esp. when it comes to features in free hosting (Linux). 
