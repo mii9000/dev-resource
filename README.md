@@ -21,11 +21,9 @@ Links here are to sites that have full-fledged courses on different topics, fram
 * [Pluralsight](http://www.pluralsight.com) - Videos | Freemium
 * [LearnStreet](http://www.learnstreet.com) - Interactive | Videos | Web | Free
 * [Coding For Good](http://cfg.good.is) - Quiz | Videos | Web | Free
-* [Alison](http://www.alison.com) - Videos | Free | Certificates
 * [SkilledUp](http://www.skilledup.com) - Search Engine
 * [SlideRule](http://www.mysliderule.com) - Search Engine
 * [iVersity](http://www.iversity.org) - MOOC
-* [CourseTalk](http://www.coursetalk.com) - Search Engine
 * [Udemy](https://www.udemy.com) - Videos | Freemium | Certificates
 
 ## Collections
@@ -37,6 +35,7 @@ Like these one there are more collections of useful dev links out there.
 * [HTML5 Rocks](http://www.html5rocks.com) - HTML5 and Web Techs
 * [AngularJS-Learning](https://github.com/jmcunningham/AngularJS-Learning) - Butt-load of learning material on AngularJS!
 * [Resources](https://github.com/tevko/Resources) - Resources to front-end learning and tooling
+* [Coderbits](https://coderbits.com/posts) - Links to several useful learning materials and tools
 
 ## Videos
 
@@ -51,7 +50,21 @@ Loads of screencasts and videos on various topics.
 Old school style learning offline and online.
 
 1. [Zapier](https://zapier.com/learn/apis) - Who better to teach APIs then Zapier
-2. [Eloquent JavaScript](http://eloquentjavascript.net) - Popular free and online book on JS
-3. [Javascript Garden](http://bonsaiden.github.io/JavaScript-Garden) - Another good samaritan teaching us JS
-4. [Mastering Node](https://github.com/visionmedia/masteringnode) - Open-source eBook on NodeJS
-5. [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) - Popular kick-started book series on JS
+* [Eloquent JavaScript](http://eloquentjavascript.net) - Popular free and online book on JS
+* [Javascript Garden](http://bonsaiden.github.io/JavaScript-Garden) - Another good samaritan teaching us JS
+* [Mastering Node](https://github.com/visionmedia/masteringnode) - Open-source eBook on NodeJS
+* [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) - Popular kick-started book series on JS
+
+## Tutorials
+
+Articles and tutorials on many topics with code
+
+1. [Scotch.io](http://www.scotch.io) - Beautiful site and well-written tutorials on mainly web techs
+* [SitePoint](http://www.sitepoint.com) - Articles and tutorials written on various topics and some with code
+* [Tech.PRO](http://www.tech.pro) - Social network for techies demonstrating their knowledge through coding posts
+* [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript) - Thousands of star gazers say that this style guide for JS is quite solid
+* [OdeToCode](http://www.odetocode.com) - Mostly on ASP.NET and JS
+* [Codrops](http://www.tympanus.net/codrops) - Mind blowing tutorials on unique and interactive UI elements and styling
+* [TutsPlus](http://code.tutsplus.com/) - Tutorials on most web techs out there
+* [Succintly](https://www.syncfusion.com/resources/techportal/ebooks) - Ebook series ~100 pages each
+* [GitImmersion](http://gitimmersion.com) - Chapter-wise learning git
