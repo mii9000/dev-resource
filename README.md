@@ -25,6 +25,7 @@ Links here are to sites that have full-fledged courses on different topics, fram
 * [SlideRule](http://www.mysliderule.com) - Search Engine
 * [iVersity](http://www.iversity.org) - MOOC
 * [Udemy](https://www.udemy.com) - Videos | Freemium | Certificates
+* [RubyMonk](https://rubymonk.com) - Interactive
 
 ## Collections
 
@@ -36,6 +37,7 @@ Like these one there are more collections of useful dev links out there.
 * [AngularJS-Learning](https://github.com/jmcunningham/AngularJS-Learning) - Butt-load of learning material on AngularJS!
 * [Resources](https://github.com/tevko/Resources) - Resources to front-end learning and tooling
 * [Coderbits](https://coderbits.com/posts) - Links to several useful learning materials and tools
+* [HTML5 Please](http://html5please.com) - HTML5 and CSS3 support cross-browser, alternatives and fallbacks 
 
 ## Videos
 
@@ -84,4 +86,4 @@ Articles and tutorials on many topics with code
 ## Hosting
 
 1. [Somee.com](https://somee.com) - The best and most up-to-date hosting for free (Windows).
-* [OpenShift](https://www.openshift.com) - By Redhat, beats Heroku or AppHarbour esp. when it comes to features in free hosting (Linux). 
+* [OpenShift](https://www.openshift.com) - By Redhat, beats Heroku or AppHarbour esp. when it comes to features in free hosting (Linux).
