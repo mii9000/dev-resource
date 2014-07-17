@@ -26,6 +26,7 @@ Links here are to sites that have full-fledged courses on different topics, fram
 * [iVersity](http://www.iversity.org) - MOOC
 * [Udemy](https://www.udemy.com) - Videos | Freemium | Certificates
 * [RubyMonk](https://rubymonk.com) - Interactive
+* [NodeSchool](https://nodeschool.io) - Interactive | Offline
 
 ## Collections
 
@@ -38,6 +39,7 @@ Like these one there are more collections of useful dev links out there.
 * [Resources](https://github.com/tevko/Resources) - Resources to front-end learning and tooling
 * [Coderbits](https://coderbits.com/posts) - Links to several useful learning materials and tools
 * [HTML5 Please](http://html5please.com) - HTML5 and CSS3 support cross-browser, alternatives and fallbacks 
+* [Cheatography](http://www.cheatography.com) - Cheat sheets available for most programming needs
 
 ## Videos
 
@@ -76,12 +78,11 @@ Articles and tutorials on many topics with code
 
 1. [BuiltWith](http://www.builtwith.com) - Ever wonder what particular techs were used to build a web app or site? Well, find out!
 * [attachables](http://visualstudiogallery.msdn.microsoft.com/850937ba-ff0b-43cb-badd-4e273b508c32) - Revamped TODOs for Visual Studio
-* [Git Cheat Sheet](https://chrome.google.com/webstore/detail/git-cheat-sheet/mjdmgoiobnbkfcfjcceaodlcodhpokgn?hl=en) - Recall a specific Git command. Useful when working with remote repos.
-* [Shapeshifter](http://flamefusion.net/software/shapeshifter-clipboard-manager) - Hands down the best clipboard manager for Windows.
-* [Snip2Code](http://www.snip2code.com) - Save code snippets online right from your favourite IDE.
-* [Plunker](http://plnkr.co) - Better than its competitors e.g. JSFiddle and JSBin.
-* [.NET Fiddle](https://dotnetfiddle.net) - Write, save, execute and share .NET code right from the browser.
-* [Console2](http://sourceforge.net/projects/console) - Next version of Windows console. Just not officially from Microsoft.
+* [Shapeshifter](http://flamefusion.net/software/shapeshifter-clipboard-manager) - Hands down the best clipboard manager for Windows
+* [Snip2Code](http://www.snip2code.com) - Save code snippets online right from your favourite IDE
+* [Plunker](http://plnkr.co) - Better than its competitors e.g. JSFiddle and JSBin
+* [.NET Fiddle](https://dotnetfiddle.net) - Write, save, execute and share .NET code right from the browser
+* [Console2](http://sourceforge.net/projects/console) - Next version of Windows console. Just not officially from Microsoft
 
 ## Hosting
 
