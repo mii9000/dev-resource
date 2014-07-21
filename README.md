@@ -40,6 +40,7 @@ Like these one there are more collections of useful dev links out there.
 * [Coderbits](https://coderbits.com/posts) - Links to several useful learning materials and tools
 * [HTML5 Please](http://html5please.com) - HTML5 and CSS3 support cross-browser, alternatives and fallbacks 
 * [Cheatography](http://www.cheatography.com) - Cheat sheets available for most programming needs
+* [Javascript: The Right Way](http://jstherightway.org) - Guide for best practices
 
 ## Videos
 
@@ -83,6 +84,7 @@ Articles and tutorials on many topics with code
 * [Plunker](http://plnkr.co) - Better than its competitors e.g. JSFiddle and JSBin
 * [.NET Fiddle](https://dotnetfiddle.net) - Write, save, execute and share .NET code right from the browser
 * [Console2](http://sourceforge.net/projects/console) - Next version of Windows console. Just not officially from Microsoft
+* [JSHint](http://www.jshint.com) - Configure to enable flags for your JS code
 
 ## Hosting
 
