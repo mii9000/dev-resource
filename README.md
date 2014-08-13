@@ -83,6 +83,7 @@ Articles and tutorials on many topics with code
 * [JSHint](http://www.jshint.com) - Configure to enable flags for your JS code
 * [Curah!](http://www.curah.com) - Simple tool to save online resources for a particular topic
 * [Zeal](http://zealdocs.org/) - Offline API documentation browser for most popular frameworks and libs
+* [AllMyApps](http://allmyapps.com/) - Install all your PC apps in 1 click
 * [DevDocs](http://devdocs.io) - Offline and Online API documentation browser for most open-source frameworks and libs
 
 ## Hosting
