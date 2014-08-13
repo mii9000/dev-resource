@@ -89,5 +89,6 @@ Articles and tutorials on many topics with code
 
 ## Hosting
 
-1. [Somee.com](https://somee.com) - The best and most up-to-date hosting for free (Windows).
-* [OpenShift](https://www.openshift.com) - By Redhat, beats Heroku or AppHarbour esp. when it comes to features in free hosting (Linux).
+1. [Somee.com](https://somee.com) - The best and most up-to-date hosting for free (Windows)
+* [OpenShift](https://www.openshift.com) - By Redhat, beats Heroku or AppHarbour esp. when it comes to features in free hosting (Linux)
+* [GitLab](http://www.gitlab.com) - Free and umlimited private and public repos with most essential GitHub like features
