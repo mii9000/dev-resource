@@ -8,7 +8,7 @@ Links here are to sites that have full-fledged courses on different topics, fram
  
 1. [CodeSchool](http://www.codeschool.com) - Interactive | Videos | Web | Freemium
 * [CodeAcademy](http://www.codeacademy.com) - Interactive | APIs | User Created Tutorials | Free
-* [Microsoft Virtual Academy](http://www.microsoftvirtualacademy.com) - Videos | Microsoft | Hands-on | Certificate | Free
+* [Microsoft Virtual Academy](http://www.microsoftvirtualacademy.com) - Videos | Vendor-specific | Hands-on | Certificate | Free
 * [Dash](https://dash.generalassemb.ly) - Interactive | Web | Free
 * [Udacity](http://www.udacity.com) - MOOC
 * [TutsPlus](http://www.tutsplus.com) - Videos | Hands-on | Premium 
