@@ -83,9 +83,10 @@ Articles and tutorials on many topics with code
 * [JSHint](http://www.jshint.com) - Configure to enable flags for your JS code
 * [Curah!](http://www.curah.com) - Simple tool to save online resources for a particular topic
 * [Zeal](http://zealdocs.org/) - Offline API documentation browser for most popular frameworks and libs
+* [DevDocs](http://devdocs.io) - Offline and Online API documentation browser for most open-source frameworks and libs
 
 ## Hosting
 
 1. [Somee.com](https://somee.com) - The best and most up-to-date hosting for free (Windows)
 * [OpenShift](https://www.openshift.com) - By Redhat, beats Heroku or AppHarbour esp. when it comes to features in free hosting (Linux)
-* [GitLab](http://www.gitlab.com) - Free and umlimited private and public repos with most essential GitHub like features
+* [GitLab](http://www.gitlab.com) - Free and unlimited private and public repos with most essential GitHub like features
