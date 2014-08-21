@@ -78,6 +78,7 @@ Articles and tutorials on many topics with code
 * [Zeal](http://zealdocs.org/) - Offline API documentation browser for most popular frameworks and libs
 * [AllMyApps](http://allmyapps.com/) - Install all your PC apps in 1 click
 * [DevDocs](http://devdocs.io) - Offline and Online API documentation browser for most open-source frameworks and libs
+* [CodeShare](http://codeshare.io) - Real-time code sharing and hacking
 
 ## Hosting
 
