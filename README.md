@@ -64,8 +64,6 @@ Articles and tutorials on many topics with code
 * [OdeToCode](http://www.odetocode.com) - Mostly on ASP.NET and JS
 * [Codrops](http://www.tympanus.net/codrops) - Mind blowing tutorials on unique and interactive UI elements and styling
 * [TutsPlus](http://code.tutsplus.com/) - Tutorials on most web techs out there
-* [GitImmersion](http://gitimmersion.com) - Chapter-wise learning git
-
 
 ## Tools
 
