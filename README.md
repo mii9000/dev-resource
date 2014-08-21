@@ -72,7 +72,7 @@ Articles and tutorials on many topics with code
 1. [BuiltWith](http://www.builtwith.com) - Ever wonder what particular techs were used to build a web app or site? Well, find out!
 * [attachables](http://visualstudiogallery.msdn.microsoft.com/850937ba-ff0b-43cb-badd-4e273b508c32) - Revamped TODOs for Visual Studio
 * [Shapeshifter](http://flamefusion.net/software/shapeshifter-clipboard-manager) - Hands down the best clipboard manager for Windows
-* [Snip2Code](http://www.snip2code.com) - Save code snippets online right from your favourite IDE
+* [Gisto](http://www.gistoapp.com) - Code Snippet management in the form of Gists
 * [Plunker](http://plnkr.co) - Better than its competitors e.g. JSFiddle and JSBin
 * [.NET Fiddle](https://dotnetfiddle.net) - Write, save, execute and share .NET code right from the browser
 * [Console2](http://sourceforge.net/projects/console) - Next version of Windows console. Just not officially from Microsoft
