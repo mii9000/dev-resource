@@ -37,6 +37,7 @@ Like these one there are more collections of useful dev links out there.
 * [HTML5 Please](http://html5please.com) - HTML5 and CSS3 support cross-browser, alternatives and fallbacks 
 * [Cheatography](http://www.cheatography.com) - Cheat sheets available for most programming needs
 * [Javascript: The Right Way](http://jstherightway.org) - Guide for best practices
+* [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript) - Thousands of star gazers say that this style guide for JS is quite solid
 
 ## Videos
 
@@ -60,7 +61,6 @@ Articles and tutorials on many topics with code
 1. [Scotch.io](http://www.scotch.io) - Beautiful site and well-written tutorials on mainly web techs
 * [SitePoint](http://www.sitepoint.com) - Articles and tutorials written on various topics and some with code
 * [Tech.PRO](http://www.tech.pro) - Social network for techies demonstrating their knowledge through coding posts
-* [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript) - Thousands of star gazers say that this style guide for JS is quite solid
 * [OdeToCode](http://www.odetocode.com) - Mostly on ASP.NET and JS
 * [Codrops](http://www.tympanus.net/codrops) - Mind blowing tutorials on unique and interactive UI elements and styling
 * [TutsPlus](http://code.tutsplus.com/) - Tutorials on most web techs out there
