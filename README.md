@@ -51,11 +51,7 @@ Loads of screencasts and videos on various topics.
 Old school style learning offline and online.
 
 1. [Zapier](https://zapier.com/learn/apis) - Who better to teach APIs then Zapier
-* [Eloquent JavaScript](http://eloquentjavascript.net) - Popular free and online book on JS
-* [Javascript Garden](http://bonsaiden.github.io/JavaScript-Garden) - Another good samaritan teaching us JS
-* [Mastering Node](https://github.com/visionmedia/masteringnode) - Open-source eBook on NodeJS
-* [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) - Popular kick-started book series on JS
-* [Succintly](https://www.syncfusion.com/resources/techportal/ebooks) - Ebook series ~100 pages each
+* [JS Books](http://jsbooks.revolunet.com) - Links to almost all free JS books online and for offline reading
 
 ## Tutorials
 
