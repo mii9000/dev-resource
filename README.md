@@ -79,6 +79,7 @@ Articles and tutorials on many topics with code
 * [AllMyApps](http://allmyapps.com/) - Install all your PC apps in 1 click
 * [DevDocs](http://devdocs.io) - Offline and Online API documentation browser for most open-source frameworks and libs
 * [CodeShare](http://codeshare.io) - Real-time code sharing and hacking
+* [CodeBeautify](http://www.codebeautify.org) - Whole lot of code formatting and conversion online
 
 ## Hosting
 
