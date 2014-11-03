@@ -11,17 +11,17 @@ Links here are to sites that have full-fledged courses on different topics, fram
 * [Microsoft Virtual Academy](http://www.microsoftvirtualacademy.com) - Videos | Vendor-specific | Hands-on | Certificate | Free
 * [Dash](https://dash.generalassemb.ly) - Interactive | Web | Free
 * [TutsPlus](http://www.tutsplus.com) - Videos | Hands-on | Premium 
-* [FutureLearn](http://www.futurelearn.com) - MOOC
+* [FutureLearn](http://www.futurelearn.com) - MOOC | Free
 * [New Circle](http://www.thenewcircle.com) - Videos | Freemium
 * [Pluralsight](http://www.pluralsight.com) - Videos | Freemium
 * [LearnStreet](http://www.learnstreet.com) - Interactive | Videos | Web | Free
 * [Coding For Good](http://cfg.good.is) - Quiz | Videos | Web | Free
 * [SkilledUp](http://www.skilledup.com) - Search Engine
 * [SlideRule](http://www.mysliderule.com) - Search Engine
-* [iVersity](http://www.iversity.org) - MOOC
+* [iVersity](http://www.iversity.org) - MOOC | Free
 * [Udemy](https://www.udemy.com) - Videos | Freemium | Certificates
-* [RubyMonk](https://rubymonk.com) - Interactive
-* [NodeSchool](https://nodeschool.io) - Interactive | Offline
+* [RubyMonk](https://rubymonk.com) - Interactive | Free
+* [NodeSchool](https://nodeschool.io) - Interactive | Offline | Free
 
 ## Collections
 
@@ -63,6 +63,7 @@ Articles and tutorials on many topics with code
 * [OdeToCode](http://www.odetocode.com) - Mostly on ASP.NET and JS
 * [Codrops](http://www.tympanus.net/codrops) - Mind blowing tutorials on unique and interactive UI elements and styling
 * [TutsPlus](http://code.tutsplus.com/) - Tutorials on most web techs out there
+* [Rosetta Code](http://www.rosettacode.org) - Learn by solving tasks; Answers in multiple languages
 
 ## Tools
 
@@ -80,6 +81,7 @@ Articles and tutorials on many topics with code
 * [DevDocs](http://devdocs.io) - Offline and Online API documentation browser for most open-source frameworks and libs
 * [CodeShare](http://codeshare.io) - Real-time code sharing and hacking
 * [CodeBeautify](http://www.codebeautify.org) - Whole lot of code formatting and conversion online
+* [Postman](http://www.getpostman.com) - Best way possible to test API development
 
 ## Hosting
 
