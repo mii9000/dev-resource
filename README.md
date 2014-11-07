@@ -82,6 +82,7 @@ Articles and tutorials on many topics with code
 * [CodeShare](http://codeshare.io) - Real-time code sharing and hacking
 * [CodeBeautify](http://www.codebeautify.org) - Whole lot of code formatting and conversion online
 * [Postman](http://www.getpostman.com) - Best way possible to test API development
+* [Octotree](https://github.com/buunguyen/octotree) - Browser extension to see GitHub repos in a tree structure
 
 ## Hosting
 
