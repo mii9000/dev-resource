@@ -73,7 +73,7 @@ Articles and tutorials on many topics with code
 * [Gisto](http://www.gistoapp.com) - Code Snippet management in the form of Gists
 * [Plunker](http://plnkr.co) - Better than its competitors e.g. JSFiddle and JSBin
 * [.NET Fiddle](https://dotnetfiddle.net) - Write, save, execute and share .NET code right from the browser
-* [Console2](http://sourceforge.net/projects/console) - Next version of Windows console. Just not officially from Microsoft
+* [cmder](http://bliker.github.io/cmder) - Portable console emulator for Windows
 * [JSHint](http://www.jshint.com) - Configure to enable flags for your JS code
 * [Curah!](http://www.curah.com) - Simple tool to save online resources for a particular topic
 * [Zeal](http://zealdocs.org/) - Offline API documentation browser for most popular frameworks and libs
