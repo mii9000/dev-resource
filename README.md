@@ -84,6 +84,7 @@ Articles and tutorials on many topics with code
 * [Octotree](https://github.com/buunguyen/octotree) - Browser extension to see GitHub repos in a tree structure
 * [Marxico](http://marxi.co) - The missing Markdown editor for Evernote
 * [Astral](http://astralapp.com/) - Manage GitHub star repositories easily
+* [Mocky](http://www.mocky.io/) - Mock API responses with multitude of options
 
 ## Hosting
 
