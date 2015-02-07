@@ -62,6 +62,12 @@ Articles and tutorials on many topics with code
 * [TutsPlus](http://code.tutsplus.com/) - Tutorials on most web techs out there
 * [Rosetta Code](http://www.rosettacode.org) - Learn by solving tasks; Answers in multiple languages
 
+## Challenges
+1. [CodinGame](http://www.codingame.com/) - Play turn based games using programming skills
+* [CodeCombat](https://codecombat.com/) - Multiplayer coding game
+* [CodeChef](http://www.codechef.com/) - Community of programmers solving progamming problems
+* [CodeHunt](https://www.codehunt.com/) - Educational coding game with C#
+
 ## Tools
 
 1. [BuiltWith](http://www.builtwith.com) - Ever wonder what particular techs were used to build a web app or site? Well, find out!
