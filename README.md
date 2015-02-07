@@ -67,6 +67,7 @@ Articles and tutorials on many topics with code
 * [CodeCombat](https://codecombat.com/) - Multiplayer coding game
 * [CodeChef](http://www.codechef.com/) - Community of programmers solving progamming problems
 * [CodeHunt](https://www.codehunt.com/) - Educational coding game with C#
+* [Codewars](http://www.codewars.com/) - Solve katas to earn ranks
 
 ## Tools
 
