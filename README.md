@@ -78,8 +78,7 @@ Articles and tutorials on many topics with code
 * [Plunker](http://plnkr.co) - Better than its competitors e.g. JSFiddle and JSBin
 * [.NET Fiddle](https://dotnetfiddle.net) - Write, save, execute and share .NET code right from the browser
 * [cmder](http://bliker.github.io/cmder) - Portable console emulator for Windows
-* [JSHint](http://www.jshint.com) - Configure to enable flags for your JS code
-* [Curah!](http://www.curah.com) - Simple tool to save online resources for a particular topic
+* [Curah!](http://www.curah.com) - Simple tool to curate online resources for a particular topic
 * [Zeal](http://zealdocs.org/) - Offline API documentation browser for most popular frameworks and libs
 * [DevDocs](http://devdocs.io) - Offline and Online API documentation browser for most open-source frameworks and libs
 * [CodeShare](http://codeshare.io) - Real-time code sharing and hacking
@@ -89,6 +88,7 @@ Articles and tutorials on many topics with code
 * [Marxico](http://marxi.co) - The missing Markdown editor for Evernote
 * [Astral](http://astralapp.com/) - Manage GitHub star repositories easily
 * [Mocky](http://www.mocky.io/) - Mock API responses with multitude of options
+* [SqlFiddle](http://www.sqlfiddle.com/) - Write, save, execute and share SQL right from the browser
 
 ## Hosting
 
