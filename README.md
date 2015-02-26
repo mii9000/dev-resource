@@ -68,6 +68,8 @@ Articles and tutorials on many topics with code
 * [CodeChef](http://www.codechef.com/) - Community of programmers solving progamming problems
 * [CodeHunt](https://www.codehunt.com/) - Educational coding game with C#
 * [Codewars](http://www.codewars.com/) - Solve katas to earn ranks
+* [TestForGeeks](https://tests4geeks.com) - Questions for self-assessment
+* [Codetoki](http://codetoki.com) - Collect badges by solving problems
 
 ## Tools
 
