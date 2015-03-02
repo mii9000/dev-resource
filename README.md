@@ -19,6 +19,7 @@ Links here are to sites that have full-fledged courses on different topics, fram
 * [Udemy](https://www.udemy.com) - Videos | Freemium | Certificates
 * [RubyMonk](https://rubymonk.com) - Interactive | Free
 * [NodeSchool](https://nodeschool.io) - Interactive | Offline | Free
+* [TagTree](http://tagtree.tv/) - Interactive | Free
 
 ## Collections
 
@@ -41,6 +42,8 @@ Loads of screencasts and videos on various topics.
 
 1. [Thinkster](http://www.thinkster.io) - AngularJS Tutorial
 *  [EggHead](https://egghead.io) - Digestible screencasts on JS libs and tools
+*  [LearnAllTheNodes](http://www.learnallthenodes.com/) - Nodejs screencasts
+*  [NodeTuts](http://nodetuts.com/) - Nodejs video tutorials
 
 
 ## Books
