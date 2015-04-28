@@ -73,6 +73,7 @@ Articles and tutorials on many topics with code
 * [Codewars](http://www.codewars.com/) - Solve katas to earn ranks
 * [TestForGeeks](https://tests4geeks.com) - Questions for self-assessment
 * [Codetoki](http://codetoki.com) - Collect badges by solving problems
+* [TalentBuddy](http;//www.talentbuddy.co) - Solve problems on multiple tracks
 
 ## Tools
 
