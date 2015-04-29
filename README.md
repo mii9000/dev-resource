@@ -20,6 +20,7 @@ Links here are to sites that have full-fledged courses on different topics, fram
 * [RubyMonk](https://rubymonk.com) - Interactive | Free
 * [NodeSchool](https://nodeschool.io) - Interactive | Offline | Free
 * [TagTree](http://tagtree.tv/) - Interactive | Free
+* [Learn Git Branching](http://pcottle.github.io/learnGitBranching/) - Interactive | Free
 
 ## Collections
 
