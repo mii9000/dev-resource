@@ -21,6 +21,7 @@ Links here are to sites that have full-fledged courses on different topics, fram
 * [NodeSchool](https://nodeschool.io) - Interactive | Offline | Free
 * [TagTree](http://tagtree.tv/) - Interactive | Free
 * [Learn Git Branching](http://pcottle.github.io/learnGitBranching/) - Interactive | Free
+* [Git-It](https://github.com/jlord/git-it) - Interactive | Free | Offline
 
 ## Collections
 
