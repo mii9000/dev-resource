@@ -80,6 +80,7 @@ Articles and tutorials on many topics with code
 * [TestForGeeks](https://tests4geeks.com) - Questions for self-assessment
 * [Codetoki](http://codetoki.com) - Collect badges by solving problems
 * [TalentBuddy](http;//www.talentbuddy.co) - Solve problems on multiple tracks
+* [HackerRank](https://www.hackerrank.com/) - Coding challenges. Community. Awesome jobs
 
 ## Tools
 
