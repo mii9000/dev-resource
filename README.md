@@ -40,6 +40,7 @@ Like these one there are more collections of useful dev links out there.
 * [Cheatography](http://www.cheatography.com) - Cheat sheets available for most programming needs
 * [Javascript: The Right Way](http://jstherightway.org) - Guide for best practices
 * [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript) - Thousands of star gazers say that this style guide for JS is quite solid
+* [Javascript Glossary](http://www.codecademy.com/glossary/javascript) - Concise Javascript guide
 
 ## Videos
 
