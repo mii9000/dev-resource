@@ -104,6 +104,7 @@ Articles and tutorials on many topics with code
 * [Mocky](http://www.mocky.io/) - Mock API responses with multitude of options
 * [SqlFiddle](http://www.sqlfiddle.com/) - Write, save, execute and share SQL right from the browser
 * [CodingGround](http://www.tutorialspoint.com/codingground.htm) - Code in almost all popular languages
+* [Indent Guides](https://visualstudiogallery.msdn.microsoft.com/e792686d-542b-474a-8c55-630980e72c30) - Adds vertical lines at each indent level
 
 ## Hosting
 
