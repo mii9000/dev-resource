@@ -105,6 +105,7 @@ Articles and tutorials on many topics with code
 * [SqlFiddle](http://www.sqlfiddle.com/) - Write, save, execute and share SQL right from the browser
 * [CodingGround](http://www.tutorialspoint.com/codingground.htm) - Code in almost all popular languages
 * [Indent Guides](https://visualstudiogallery.msdn.microsoft.com/e792686d-542b-474a-8c55-630980e72c30) - Adds vertical lines at each indent level
+* [jQAPI](http://jqapi.com/) - What jQuery documentation should have been. Available as desktop and offline app.
 
 ## Hosting
 
