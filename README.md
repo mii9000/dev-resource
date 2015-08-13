@@ -26,6 +26,8 @@ Links here are to sites that have full-fledged courses on different topics, fram
 * [freeCodeCamp](http://www.freecodecamp.com/) - Free | Online | Video | Interactive
 * [CodeAvengers](http://www.codeavengers.com/) - Free | Online | Interactive
 * [Level-up Tutorials](http://leveluptuts.com/) - Free | Online | Video
+* [RegexOne](http://regexone.com) - Free | Interactive | Online
+* [SqlBolt](http://sqlbolt.com) - Free | Interactive | Online
 
 ## Collections
 
