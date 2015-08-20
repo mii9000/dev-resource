@@ -95,7 +95,7 @@ Articles and tutorials on many topics with code
 * [Plunker](http://plnkr.co) - Better than its competitors e.g. JSFiddle and JSBin
 * [.NET Fiddle](https://dotnetfiddle.net) - Write, save, execute and share .NET code right from the browser
 * [cmder](http://bliker.github.io/cmder) - Portable console emulator for Windows
-* [Curah!](http://www.curah.com) - Simple tool to curate online resources for a particular topic
+* [Docs](http://www.docs.com) - Simple tool to curate online resources for a particular topic
 * [Zeal](http://zealdocs.org/) - Offline API documentation browser for most popular frameworks and libs
 * [DevDocs](http://devdocs.io) - Offline and Online API documentation browser for most open-source frameworks and libs
 * [CodeShare](http://codeshare.io) - Real-time code sharing and hacking
