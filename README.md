@@ -85,6 +85,7 @@ Articles and tutorials on many topics with code
 * [TalentBuddy](http;//www.talentbuddy.co) - Solve problems on multiple tracks
 * [HackerRank](https://www.hackerrank.com/) - Coding challenges. Community. Awesome jobs
 * [CoderByte](http://coderbyte.com) - Solve algorithmic problems or program bots for games
+* [Screeps](https://screeps.com/) - MMO for programmers
 
 ## Tools
 
