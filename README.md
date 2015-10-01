@@ -86,6 +86,7 @@ Articles and tutorials on many topics with code
 * [HackerRank](https://www.hackerrank.com/) - Coding challenges. Community. Awesome jobs
 * [CoderByte](http://coderbyte.com) - Solve algorithmic problems or program bots for games
 * [Screeps](https://screeps.com/) - MMO for programmers
+* [exercism.io](http://exercism.io) - Practice. Communicate. Pay it Forward.
 
 ## Tools
 
