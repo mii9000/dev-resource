@@ -53,6 +53,7 @@ Loads of screencasts and videos on various topics.
 *  [EggHead](https://egghead.io) - Digestible screencasts on JS libs and tools
 *  [LearnAllTheNodes](http://www.learnallthenodes.com/) - Nodejs screencasts
 *  [NodeTuts](http://nodetuts.com/) - Nodejs video tutorials
+*  [CommunityCasts](http://communitycasts.co/) - A community-driven free archive of educational, tech and creative screencasts
 
 
 ## Books
