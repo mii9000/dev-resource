@@ -31,7 +31,7 @@ Links here are to sites that have full-fledged courses on different topics, fram
 
 ## Collections
 
-Like these one there are more collections of useful dev links out there.
+Like these ones, there are more collections of useful dev links out there.
 
 1. [SuperHeroJS](http://www.superherojs.com/) - Learning JS inside and out
 * [Bento](http://www.bento.io) - Resourceful links to all things web 
