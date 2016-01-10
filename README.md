@@ -88,6 +88,7 @@ Articles and tutorials on many topics with code
 * [CoderByte](http://coderbyte.com) - Solve algorithmic problems or program bots for games
 * [Screeps](https://screeps.com/) - MMO for programmers
 * [exercism.io](http://exercism.io) - Practice. Communicate. Pay it Forward.
+* [CodeFights](https://codefights.com/) - Improve coding skills while having fun
 
 ## Tools
 
