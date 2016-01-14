@@ -89,6 +89,9 @@ Articles and tutorials on many topics with code
 * [Screeps](https://screeps.com/) - MMO for programmers
 * [exercism.io](http://exercism.io) - Practice. Communicate. Pay it Forward.
 * [CodeFights](https://codefights.com/) - Improve coding skills while having fun
+* [AdventOfCode](http://adventofcode.com) - Solve small programming puzzles
+* [EmpireOfCode](https://empireofcode.com/) - Play the future
+* [CheckIO](https://www.checkio.org/) - Game for coders
 
 ## Tools
 
