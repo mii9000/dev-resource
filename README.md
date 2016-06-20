@@ -75,6 +75,7 @@ Articles and tutorials on many topics with code
 * [Codrops](http://www.tympanus.net/codrops) - Mind blowing tutorials on unique and interactive UI elements and styling
 * [TutsPlus](http://code.tutsplus.com/) - Tutorials on most web techs out there
 * [Rosetta Code](http://www.rosettacode.org) - Learn by solving tasks; Answers in multiple languages
+* [BlackWasp](http://www.blackwasp.co.uk/Default.aspx) - Huge array of C# articles, tips and tricks
 
 ## Challenges
 1. [CodinGame](http://www.codingame.com/) - Play turn based games using programming skills
