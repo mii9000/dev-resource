@@ -29,6 +29,7 @@ Links here are to sites that have full-fledged courses on different topics, fram
 * [RegexOne](http://regexone.com) - Free | Interactive | Online
 * [SqlBolt](http://sqlbolt.com) - Free | Interactive | Online
 * [Hacksplaining](https://www.hacksplaining.com) - Free | Interactive | Online
+* [KataCode](Learn new technologies right in your browser) - Free | Interactive | Online 
 
 ## Collections
 
@@ -45,6 +46,8 @@ Like these ones, there are more collections of useful dev links out there.
 * [Javascript: The Right Way](http://jstherightway.org) - Guide for best practices
 * [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript) - Thousands of star gazers say that this style guide for JS is quite solid
 * [Javascript Glossary](http://www.codecademy.com/glossary/javascript) - Concise Javascript guide
+* [ProgrammingAlgorithms](https://www.programmingalgorithms.com/) - Collection of Algorithms on multiple languages
+* [PencilTree](https://www.penciltree.com/) - Collection of videos on multiple technologies
 
 ## Videos
 
