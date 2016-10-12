@@ -48,6 +48,7 @@ Like these ones, there are more collections of useful dev links out there.
 * [Javascript Glossary](http://www.codecademy.com/glossary/javascript) - Concise Javascript guide
 * [ProgrammingAlgorithms](https://www.programmingalgorithms.com/) - Collection of Algorithms on multiple languages
 * [PencilTree](https://www.penciltree.com/) - Collection of videos on multiple technologies
+* [Free ASP.NET Courses](https://www.asp.net/free-courses) - Collection of free courses for ASP.NET
 
 ## Videos
 
