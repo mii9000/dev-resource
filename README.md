@@ -29,7 +29,7 @@ Links here are to sites that have full-fledged courses on different topics, fram
 * [RegexOne](http://regexone.com) - Free | Interactive | Online
 * [SqlBolt](http://sqlbolt.com) - Free | Interactive | Online
 * [Hacksplaining](https://www.hacksplaining.com) - Free | Interactive | Online
-* [KataCode](Learn new technologies right in your browser) - Free | Interactive | Online 
+* [KataCoda](https://katacoda.com/) - Free | Interactive | Online 
 
 ## Collections
 
