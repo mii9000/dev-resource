@@ -30,6 +30,7 @@ Links here are to sites that have full-fledged courses on different topics, fram
 * [SqlBolt](http://sqlbolt.com) - Free | Interactive | Online
 * [Hacksplaining](https://www.hacksplaining.com) - Free | Interactive | Online
 * [KataCoda](https://katacoda.com/) - Free | Interactive | Online 
+* [Saylor Academy](https://learn.saylor.org/) - Free | Online
 
 ## Collections
 
@@ -125,6 +126,7 @@ Articles and tutorials on many topics with code
 * [jQAPI](http://jqapi.com/) - What jQuery documentation should have been. Available as desktop and offline app.
 * [JSApp.US](http://jsapp.us/) - Make Node.js apps on-the-fly!
 * [HyperDev](https://hyperdev.com/) - Developer playground for building full-stack web apps, fast
+* [RunKit](https://runkit.com/home) - Node playground in the browser
 
 ## Hosting
 
