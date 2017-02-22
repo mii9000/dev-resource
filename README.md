@@ -100,6 +100,7 @@ Articles and tutorials on many topics with code
 * [EmpireOfCode](https://empireofcode.com/) - Play the future
 * [CheckIO](https://www.checkio.org/) - Game for coders
 * [LeetCode](https://leetcode.com/) - Preparing for technical interviews
+* [edabit](https://edabit.com/) - Learn to code with interactive challenges
 
 ## Tools
 
