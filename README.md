@@ -128,6 +128,8 @@ Articles and tutorials on many topics with code
 * [JSApp.US](http://jsapp.us/) - Make Node.js apps on-the-fly!
 * [HyperDev](https://hyperdev.com/) - Developer playground for building full-stack web apps, fast
 * [RunKit](https://runkit.com/home) - Node playground in the browser
+* [HTTPBin](https://httpbin.org/) - Endpoints to test out with HTTP
+* [RequestBin](https://requestb.in/) - Inspect HTTP requests sent to it
 
 ## Hosting
 
