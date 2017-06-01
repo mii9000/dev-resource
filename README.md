@@ -6,7 +6,7 @@ Developers usually have their own stash of resources from which they learn or us
 
 Links here are to sites that have full-fledged courses on different topics, frameworks and languages.
  
-1. [CodeSchool](http://www.codeschool.com) - Interactive | Videos | Web | Freemium
+* [CodeSchool](http://www.codeschool.com) - Interactive | Videos | Web | Freemium
 * [CodeAcademy](http://www.codeacademy.com) - Interactive | APIs | User Created Tutorials | Free
 * [Microsoft Virtual Academy](http://www.microsoftvirtualacademy.com) - Videos | Vendor-specific | Hands-on | Certificate | Free
 * [Dash](https://dash.generalassemb.ly) - Interactive | Web | Free
@@ -36,7 +36,7 @@ Links here are to sites that have full-fledged courses on different topics, fram
 
 Like these ones, there are more collections of useful dev links out there.
 
-1. [SuperHeroJS](http://www.superherojs.com/) - Learning JS inside and out
+* [SuperHeroJS](http://www.superherojs.com/) - Learning JS inside and out
 * [Bento](http://www.bento.io) - Resourceful links to all things web 
 * [HTML5 Rocks](http://www.html5rocks.com) - HTML5 and Web Techs
 * [AngularJS-Learning](https://github.com/jmcunningham/AngularJS-Learning) - Butt-load of learning material on AngularJS!
@@ -55,7 +55,7 @@ Like these ones, there are more collections of useful dev links out there.
 
 Loads of screencasts and videos on various topics.
 
-1. [Thinkster](http://www.thinkster.io) - AngularJS Tutorial
+* [Thinkster](http://www.thinkster.io) - AngularJS Tutorial
 *  [EggHead](https://egghead.io) - Digestible screencasts on JS libs and tools
 *  [LearnAllTheNodes](http://www.learnallthenodes.com/) - Nodejs screencasts
 *  [NodeTuts](http://nodetuts.com/) - Nodejs video tutorials
@@ -66,14 +66,14 @@ Loads of screencasts and videos on various topics.
 
 Old school style learning offline and online.
 
-1. [Zapier](https://zapier.com/learn/apis) - Who better to teach APIs then Zapier
+* [Zapier](https://zapier.com/learn/apis) - Who better to teach APIs then Zapier
 * [JS Books](http://jsbooks.revolunet.com) - Links to almost all free JS books online and for offline reading
 
 ## Tutorials
 
 Articles and tutorials on many topics with code
 
-1. [Scotch.io](http://www.scotch.io) - Beautiful site and well-written tutorials on mainly web techs
+* [Scotch.io](http://www.scotch.io) - Beautiful site and well-written tutorials on mainly web techs
 * [SitePoint](http://www.sitepoint.com) - Articles and tutorials written on various topics and some with code
 * [Tech.PRO](http://www.tech.pro) - Social network for techies demonstrating their knowledge through coding posts
 * [OdeToCode](http://www.odetocode.com) - Mostly on ASP.NET and JS
@@ -83,7 +83,7 @@ Articles and tutorials on many topics with code
 * [BlackWasp](http://www.blackwasp.co.uk/Default.aspx) - Huge array of C# articles, tips and tricks
 
 ## Challenges
-1. [CodinGame](http://www.codingame.com/) - Play turn based games using programming skills
+* [CodinGame](http://www.codingame.com/) - Play turn based games using programming skills
 * [CodeCombat](https://codecombat.com/) - Multiplayer coding game
 * [CodeChef](http://www.codechef.com/) - Community of programmers solving progamming problems
 * [CodeHunt](https://www.codehunt.com/) - Educational coding game with C#
@@ -104,7 +104,7 @@ Articles and tutorials on many topics with code
 
 ## Tools
 
-1. [BuiltWith](http://www.builtwith.com) - Ever wonder what particular techs were used to build a web app or site? Well, find out!
+* [BuiltWith](http://www.builtwith.com) - Ever wonder what particular techs were used to build a web app or site? Well, find out!
 * [attachables](http://visualstudiogallery.msdn.microsoft.com/850937ba-ff0b-43cb-badd-4e273b508c32) - Revamped TODOs for Visual Studio
 * [Shapeshifter](http://flamefusion.net/software/shapeshifter-clipboard-manager) - Hands down the best clipboard manager for Windows
 * [Gisto](http://www.gistoapp.com) - Code Snippet management in the form of Gists
@@ -133,7 +133,7 @@ Articles and tutorials on many topics with code
 
 ## Hosting
 
-1. [Somee.com](https://somee.com) - The best and most up-to-date hosting for free (Windows)
+* [Somee.com](https://somee.com) - The best and most up-to-date hosting for free (Windows)
 * [OpenShift](https://www.openshift.com) - Best free Linux-based hosting with Git
 * [AppHarbor](https://appharbor.com/) - Best free Windows-based hosting with Git
 * [GitLab](http://www.gitlab.com) - Free and unlimited private and public repos with most essential GitHub like features
