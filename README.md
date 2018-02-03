@@ -31,6 +31,8 @@ Links here are to sites that have full-fledged courses on different topics, fram
 * [Hacksplaining](https://www.hacksplaining.com) - Free | Interactive | Online
 * [KataCoda](https://katacoda.com/) - Free | Interactive | Online 
 * [Saylor Academy](https://learn.saylor.org/) - Free | Online
+* [Educative.io](https://www.educative.io/learn) - Freemium | Online
+* [Scala-Exercises](https://www.scala-exercises.org) - Free | Online | Interactive
 
 ## Collections
 
