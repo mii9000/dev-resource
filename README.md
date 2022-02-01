@@ -85,6 +85,7 @@ Articles and tutorials on many topics with code
 * [BlackWasp](http://www.blackwasp.co.uk/Default.aspx) - Huge array of C# articles, tips and tricks
 
 ## Challenges
+* [Coding Mystery](https://codingmystery.com/) - Exciting escape-room-inspired programming puzzles
 * [CodinGame](http://www.codingame.com/) - Play turn based games using programming skills
 * [CodeCombat](https://codecombat.com/) - Multiplayer coding game
 * [CodeChef](http://www.codechef.com/) - Community of programmers solving progamming problems
