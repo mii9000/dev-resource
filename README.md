@@ -33,7 +33,7 @@ Links here are to sites that have full-fledged courses on different topics, fram
 * [Saylor Academy](https://learn.saylor.org/) - Free | Online
 * [Educative.io](https://www.educative.io/learn) - Freemium | Online
 * [Scala-Exercises](https://www.scala-exercises.org) - Free | Online | Interactive
-* [Test](https://www.test.org) - Free | Online | Interactive
+* [Test](https://www.test.org) - Free | Online | Interactive dfdf
 
 ## Collections
 
